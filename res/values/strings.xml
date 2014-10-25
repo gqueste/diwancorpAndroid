@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sagas mp3 de Diwan</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world !</string>
+    
+    <string name="accueil_ban">Choisissez une saga</string>
+    <string name="synchronisation_text">Chargement des données</string>
+    <string name="erreur_connexion">Connectez vous à Internet pour lancer l\'application</string>
+    
+    
+
+</resources>

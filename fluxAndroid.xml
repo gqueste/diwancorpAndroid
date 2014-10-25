@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed>
+	<news>
+		<date><![CDATA[15 Mars 2013]]></date>
+		<contenu><![CDATA[Contenu d'une news TADAAA]]></contenu>
+	</news>
+	<saga>
+		<id>1</id>
+		<nom><![CDATA[Tanirm, Le Bâtard Assoiffé]]></nom>
+		<description><![CDATA[Dans le royaume de Seterne, il y a dix huit ans de cela, le roi Menelion est revenu d'une de ses campagnes avec un bébé nommé Tanirm, qui fut éduqué comme son enfant légitime.
+
+Mais le Roi fut obligé de se remarier pour asseoir une descendance légitime sur le trône. Filiam naquit de cette union avec la reine Ganaelle.
+
+Le bâtard Tanirm, délaissé, vit l'enfant devenir peu à peu le parfait héritier du royaume, alors que lui est laissé à l'abandon dont doivent souffrir tous les bâtards.
+
+A présent, Tanirm décide de reprendre la place qui lui revient, peu importe ce qui lui en coûtera.
+
+Entre complots, ententes et trahisons, le chemin du bâtard vers le pouvoir est tortueux et semé d'embûches.
+
+Entrez donc dans cet univers où aucune entente n'est faite pour durer lorsque vous jouez au Jeu du Trône.]]></description>
+		<episode>
+			<nom><![CDATA[Episode 0]]></nom>
+			<nom_etendu><![CDATA[Episode 0 - Introduction]]></nom_etendu>
+			<duree><![CDATA[04:15]]></duree>
+			<description><![CDATA[Voici l'introduction de l'histoire.
+
+Elle n'est pas nécessaire à la compréhension de la saga, mais joue une sorte de prologue qui élargit l'univers dans lequel va se dérouler l'histoire.
+
+Introduction interprétée sur le modèle d'un livre audio, ce style n'est pas représentatif de la saga qui va suivre.]]></description>
+			<lien><![CDATA[http://diwancorp.fr/mp3/tanirm,le_batard_assoiffe-episode_0.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Tous]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+		<episode>
+			<nom><![CDATA[Episode 1]]></nom>
+			<nom_etendu><![CDATA[Episode 1 - Assassinat]]></nom_etendu>
+			<duree><![CDATA[14:30]]></duree>
+			<description><![CDATA[Tanirm, le Bâtard du Roi Menelion, souverain de Seterne, tente de trouver un moyen pour se débarrasser du Prince Filiam, héritier légitime du royaume.
+
+Mais cet objectif n'est pas aussi simple à atteindre. Il a des amis dans cette lutte, mais aussi de puissants ennemis qui connaissent son but, et peut être... des concurrents.]]></description>
+			<lien><![CDATA[http://diwancorp.fr/mp3/tanirm,le_batard_assoiffe-episode_1-assassinat.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Naëma]]></nom>
+				<role><![CDATA[Ganaelle]]></role>
+				<site><![CDATA[http://naerween.champilzow.com/]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Javeldose]]></nom>
+				<role><![CDATA[Kelern]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/Javeldose]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Tanirm, Filiam,...]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+		<episode>
+			<nom><![CDATA[Episode 2]]></nom>
+			<nom_etendu><![CDATA[Episode 2 - Chevalerie]]></nom_etendu>
+			<duree><![CDATA[19:12]]></duree>
+			<description><![CDATA[L'arrivée à la Cour de Seterne du Chevalier Nalys est synonyme de changements.
+
+De quelle étoffe est fait ce nouvel arrivant ? Dans quel camp se rangera-t-il ?]]></description>
+			<lien><![CDATA[http://diwancorp.fr/mp3/tanirm,le_batard_assoiffe-episode_2-chevalerie.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Naëma]]></nom>
+				<role><![CDATA[Ganaelle]]></role>
+				<site><![CDATA[http://naerween.champilzow.com/]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Javeldose]]></nom>
+				<role><![CDATA[Kelern]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/Javeldose]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Thetchaff]]></nom>
+				<role><![CDATA[Nalys]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/thetchaff]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[JoHoward]]></nom>
+				<role><![CDATA[Bilidin]]></role>
+				<site><![CDATA[http://johoward.free.fr/]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Jilief]]></nom>
+				<role><![CDATA[Garde]]></role>
+				<site><![CDATA[http://www.jilief.jimdo.com/]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Tanirm, Filiam,...]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+		<episode>
+			<nom><![CDATA[Episode 3]]></nom>
+			<nom_etendu><![CDATA[Episode 3 - Mariage]]></nom_etendu>
+			<duree><![CDATA[13:00]]></duree>
+			<description><![CDATA[Tanirm apprend que le Roi et le Chevalier Nalys prévoient de le marier à Dame Sylivianne.
+
+Serait ce la goutte d'eau qui fait déborder le vase ?]]></description>
+			<lien><![CDATA[http://diwancorp.fr/mp3/tanirm,le_batard_assoiffe-episode_3-mariage.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Zip]]></nom>
+				<role><![CDATA[Conseiller]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/Zip]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Javeldose]]></nom>
+				<role><![CDATA[Kelern]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/Javeldose]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Thetchaff]]></nom>
+				<role><![CDATA[Nalys]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/thetchaff]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Tanirm, Filiam,...]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+		<episode>
+			<nom><![CDATA[Episode 4]]></nom>
+			<nom_etendu><![CDATA[Episode 4 - Pions]]></nom_etendu>
+			<duree><![CDATA[12:01]]></duree>
+			<description><![CDATA[La Reine Ganaelle rend visite à son père, le Roi Adreild, souverain du Royaume de Picel.
+
+Celui ci lui apprend de grandes nouvelles qui concernent directement le Royaume de Seterne.]]></description>
+			<lien><![CDATA[http://diwancorp.fr/mp3/tanirm,le_batard_assoiffe-episode_4-pions.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Naëma]]></nom>
+				<role><![CDATA[Ganaelle]]></role>
+				<site><![CDATA[http://naerween.champilzow.com/]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Thetchaff]]></nom>
+				<role><![CDATA[Nalys]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/thetchaff]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Tanirm, Filiam,...]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+		<episode>
+			<nom><![CDATA[Episode 5]]></nom>
+			<nom_etendu><![CDATA[Episode 5 - Ambassadeur]]></nom_etendu>
+			<duree><![CDATA[11:00]]></duree>
+			<description><![CDATA[Tanirm rencontre un curieux personnage, Heireidric du royaume de Laice, qui semble avoir une mission bien singulière à exécuter à Seterne.
+
+De son côté, la Reine Ganaelle revient lentement de son éprouvante rencontre avec son Père.
+
+Et au milieu se dresse une auberge...]]></description>
+			<lien><![CDATA[http://diwancorp.fr/mp3/tanirm,le_batard_assoiffe-episode_5-ambassadeur.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Naëma]]></nom>
+				<role><![CDATA[Ganaelle]]></role>
+				<site><![CDATA[http://naerween.champilzow.com/]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Thetchaff]]></nom>
+				<role><![CDATA[Nalys]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/thetchaff]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Javeldose]]></nom>
+				<role><![CDATA[Kelern]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/Javeldose]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Luciole]]></nom>
+				<role><![CDATA[Heireidric]]></role>
+				<site><![CDATA[http://finessefantastique.com/]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Phine]]></nom>
+				<role><![CDATA[Serveuse]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/Phine]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Tanirm, Filiam,...]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+		<episode>
+			<nom><![CDATA[Episode 6]]></nom>
+			<nom_etendu><![CDATA[Episode 6 - Alliance]]></nom_etendu>
+			<duree><![CDATA[12:50]]></duree>
+			<description><![CDATA[Tanirm rentre à la Cour de Seterne avec l'ambassadeur de Laice, Heireidric. Aussitôt rentré, Tanirm veut tout savoir sur ce mystérieux ambassadeur.
+
+Et il est bien décidé à tirer partie de ce qu'il apprend.]]></description>
+			<lien><![CDATA[http://diwancorp.fr/mp3/tanirm,le_batard_assoiffe-episode_6-alliance.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Naëma]]></nom>
+				<role><![CDATA[Ganaelle]]></role>
+				<site><![CDATA[http://naerween.champilzow.com/]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Thetchaff]]></nom>
+				<role><![CDATA[Nalys]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/thetchaff]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Javeldose]]></nom>
+				<role><![CDATA[Kelern]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/Javeldose]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Luciole]]></nom>
+				<role><![CDATA[Heireidric]]></role>
+				<site><![CDATA[http://finessefantastique.com/]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Horine]]></nom>
+				<role><![CDATA[Koltern]]></role>
+				<site><![CDATA[http://prodhorine.free.fr/]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Tanirm, Filiam,...]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+		<episode>
+			<nom><![CDATA[Episode 7]]></nom>
+			<nom_etendu><![CDATA[Episode 7 - Père]]></nom_etendu>
+			<duree><![CDATA[14:15]]></duree>
+			<description><![CDATA[Tanirm tente d'empêcher la plus grande erreur de sa vie de se produire. Se battant furieusement contre son destin, il sait qu'il risque de perdre la personne la plus importante à ses yeux.
+
+Les rouages de la grande machine continuent de tourner. Mais Tanirm compte bien être le grain de sable fatal.]]></description>
+			<lien><![CDATA[http://diwancorp.fr/mp3/tanirm,le_batard_assoiffe-episode_7-pere.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Naëma]]></nom>
+				<role><![CDATA[Ganaelle]]></role>
+				<site><![CDATA[http://naerween.champilzow.com/]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Thetchaff]]></nom>
+				<role><![CDATA[Nalys]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/thetchaff]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Javeldose]]></nom>
+				<role><![CDATA[Kelern]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/Javeldose]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Luciole]]></nom>
+				<role><![CDATA[Heireidric]]></role>
+				<site><![CDATA[http://finessefantastique.com/]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Horine]]></nom>
+				<role><![CDATA[Koltern]]></role>
+				<site><![CDATA[http://prodhorine.free.fr/]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Tanirm, Filiam,...]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+	</saga>
+	<saga>
+		<id>2</id>
+		<nom><![CDATA[Pokémon, L'Arche de la Victoire]]></nom>
+		<description><![CDATA[Cette histoire est une adaptation en mp3 des premières saisons de l'anime Pokémon (les 150 premiers Pokémon).
+
+Elle met en scène un jeune dresseur, Grégoire, qui commence la longue route pour devenir Maître Pokémon.
+
+Amitié, Rencontres et Combats rythment son aventure.]]></description>
+		<episode>
+			<nom><![CDATA[Episode 1]]></nom>
+			<nom_etendu><![CDATA[Episode 1 - Un Dresseur Motivé !]]></nom_etendu>
+			<duree><![CDATA[12:15]]></duree>
+			<description><![CDATA[Grégoire va voir le Professeur qui doit lui donner son premier Pokémon.
+
+Mais celui ci n'a rien à lui proposer.
+
+Alors que Grégoire cherche désespérément un Pokémon dans la forêt, il rencontre Machoc.
+
+Mais il n'est pas le seul à s'y intéresser...]]></description>
+			<lien><![CDATA[http://diwancorp.fr/pokemon/Pokemon-L_Arche_De_La_Victoire-Episode_1-Un_Dresseur_Motive.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Istria]]></nom>
+				<role><![CDATA[Jane, Goupix,...]]></role>
+				<site><![CDATA[http://exnihilo.forumrp.net/]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Grégoire, Machoc...]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+		<episode>
+			<nom><![CDATA[Episode 2]]></nom>
+			<nom_etendu><![CDATA[Episode 2 - Force et Amour]]></nom_etendu>
+			<duree><![CDATA[09:15]]></duree>
+			<description><![CDATA[Grégoire poursuit son chemin et tombe sur un Caninos blessé.
+
+Au moment où il décide de l'amener à un Centre Pokémon pour le soigner, il tombe nez à nez avec le Professeur qui mène quelques recherches dans la forêt.
+
+Il invite Grégoire à l'assister.]]></description>
+			<lien><![CDATA[http://diwancorp.fr/pokemon/Pokemon-L_Arche_De_La_Victoire-Episode_2-Force_et_Amour.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Istria]]></nom>
+				<role><![CDATA[Jane, Goupix,...]]></role>
+				<site><![CDATA[http://exnihilo.forumrp.net/]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Grégoire, Machoc...]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+		<episode>
+			<nom><![CDATA[Episode 3]]></nom>
+			<nom_etendu><![CDATA[Episode 3 - Conflit au Lac]]></nom_etendu>
+			<duree><![CDATA[11:05]]></duree>
+			<description><![CDATA[Grégoire et le Professeur ont amené leurs Pokémons au centre Pokémon.
+
+Là, l'infirmière leur apprend qu'il existe des affrontements furieux près d'un lac. Les deux compères décident d'aller enquêter sur place.]]></description>
+			<lien><![CDATA[http://diwancorp.fr/pokemon/Pokemon-L_Arche_De_La_Victoire-Episode_3-Conflit_au_Lac.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Istria]]></nom>
+				<role><![CDATA[Jane, Goupix,...]]></role>
+				<site><![CDATA[http://exnihilo.forumrp.net/]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Moony]]></nom>
+				<role><![CDATA[Pokémons figurants]]></role>
+				<site><![CDATA[]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Luciole]]></nom>
+				<role><![CDATA[Pokémons figurants]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/Luciole]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Yohan]]></nom>
+				<role><![CDATA[Pokémons figurants]]></role>
+				<site><![CDATA[]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Hirder]]></nom>
+				<role><![CDATA[Pokémons figurants]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/Hirder]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Zip]]></nom>
+				<role><![CDATA[Pokémons figurants]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/Zip]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Szadec]]></nom>
+				<role><![CDATA[Pokémons figurants]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/Szadec]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Kuroro]]></nom>
+				<role><![CDATA[Pokémons figurants]]></role>
+				<site><![CDATA[]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Grégoire, Machoc...]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+		<episode>
+			<nom><![CDATA[Episode 4]]></nom>
+			<nom_etendu><![CDATA[Episode 4 - Inscription]]></nom_etendu>
+			<duree><![CDATA[08:35]]></duree>
+			<description><![CDATA[Grégoire a maintenant 4 Pokémons.
+
+Avec le Professeur, il continue sa route.
+
+Quand soudain un Pokémon les attaque...]]></description>
+			<lien><![CDATA[http://diwancorp.fr/pokemon/Pokemon-L_Arche_De_La_Victoire-Episode_4-Inscription.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Istria]]></nom>
+				<role><![CDATA[Jane, Goupix,...]]></role>
+				<site><![CDATA[http://exnihilo.forumrp.net/]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Phine]]></nom>
+				<role><![CDATA[Personnel d'accueil]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/Phine]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Grégoire, Machoc...]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+		<episode>
+			<nom><![CDATA[Episode 5]]></nom>
+			<nom_etendu><![CDATA[Episode 5 - Premier Tour]]></nom_etendu>
+			<duree><![CDATA[13:49]]></duree>
+			<description><![CDATA[Après son inscription au Tournoi de l'Arche, Grégoire doit affronter un sérieux adversaire dès le premier tour.]]></description>
+			<lien><![CDATA[http://diwancorp.fr/pokemon/Pokemon-L_Arche_De_La_Victoire-Episode_5-Premier_Tour.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Istria]]></nom>
+				<role><![CDATA[Jane, Goupix,...]]></role>
+				<site><![CDATA[http://exnihilo.forumrp.net/]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Grégoire, Machoc...]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+		<episode>
+			<nom><![CDATA[Episode 6]]></nom>
+			<nom_etendu><![CDATA[Episode 6 - Combats Acharnés]]></nom_etendu>
+			<duree><![CDATA[14:45]]></duree>
+			<description><![CDATA[Grégoire affronte tous les dresseurs de son groupe dans de grands combats passionnés.]]></description>
+			<lien><![CDATA[http://diwancorp.fr/pokemon/Pokemon-L_Arche_De_La_Victoire-Episode_6-Combats_Acharnes.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Istria]]></nom>
+				<role><![CDATA[Jane, Goupix,...]]></role>
+				<site><![CDATA[http://exnihilo.forumrp.net/]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Johnny]]></nom>
+				<role><![CDATA[Journaliste]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/Johnny]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Grégoire, Machoc...]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+	</saga>
+	<saga>
+		<id>3</id>
+		<nom><![CDATA[Azaltar et l'Ambre de Lecture]]></nom>
+		<description><![CDATA[Azaltar est un mage noir avec un certain handicap.
+
+Dans un monde où toute la magie découle d’artefacts pourvus de notices d’utilisation, il est incapable de les lire, suite à une malédiction lancée par son ancien maître Belzétone.
+
+Azaltar se satisfait pourtant de sa situation et dirige un donjon avec l’aide de Glück, son associé/esclave.
+
+Mais lorsque l’Ambre de Lecture apparait sous son nez, le mage noir aperçoit enfin l’occasion de récupérer ses pouvoirs.
+
+Cette saga a été réalisée dans le cadre du Concours de la Saga de l'Eté 2012 sur Netophonix et a remporté l'Award du Meilleur Jeu d'Acteur et l'Award de la Meilleure Qualité Audio.]]></description>
+		<episode>
+			<nom><![CDATA[Episode 0]]></nom>
+			<nom_etendu><![CDATA[Episode 0 - Prélude]]></nom_etendu>
+			<duree><![CDATA[02:14]]></duree>
+			<description><![CDATA[Le mage noir Belzétone raconte sa relation avec son ancien élève, Azaltar.]]></description>
+			<lien><![CDATA[http://diwancorp.fr/mp3/Azaltar_et_l_Ambre_de_Lecture_Episode_0.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Belzétone]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+		<episode>
+			<nom><![CDATA[Episode 1]]></nom>
+			<nom_etendu><![CDATA[Episode 1 - Les Chevaliers Dragons]]></nom_etendu>
+			<duree><![CDATA[07:16]]></duree>
+			<description><![CDATA[Les Chevaliers Dragons tentent de survivre dans le donjon d'Azaltar.]]></description>
+			<lien><![CDATA[http://diwancorp.fr/mp3/Azaltar_et_l_Ambre_de_Lecture_Episode_1.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Phine]]></nom>
+				<role><![CDATA[Trancine]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/Phine]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Azaltar, Belzétone,...]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+		<episode>
+			<nom><![CDATA[Episode 2]]></nom>
+			<nom_etendu><![CDATA[Episode 2 - Arcanes et Inquisition]]></nom_etendu>
+			<duree><![CDATA[03:32]]></duree>
+			<description><![CDATA[Alors qu'Azaltar veut se lancer à la poursuite de son agresseur, quelqu'un frappe à la porte de son donjon.]]></description>
+			<lien><![CDATA[http://diwancorp.fr/mp3/Azaltar_et_l_Ambre_de_Lecture_Episode_2.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Phine]]></nom>
+				<role><![CDATA[Trancine]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/Phine]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Azaltar, Belzétone,...]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+		<episode>
+			<nom><![CDATA[Episode 3]]></nom>
+			<nom_etendu><![CDATA[Episode 3 - Procès]]></nom_etendu>
+			<duree><![CDATA[05:36]]></duree>
+			<description><![CDATA[Azaltar et Glück sont escortés par l'inquisitrice Trancine devant les tribunaux de l'Ordre du Maintien de la Magie pour utilisation interdite de la Magie des Arcanes. Ça ne s'annonce pas très bien...]]></description>
+			<lien><![CDATA[http://diwancorp.fr/mp3/Azaltar_et_l_Ambre_de_Lecture_Episode_3.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Phine]]></nom>
+				<role><![CDATA[Trancine]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/Phine]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Azaltar, Belzétone,...]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+		<episode>
+			<nom><![CDATA[Episode 4]]></nom>
+			<nom_etendu><![CDATA[Episode 4 - Ô Maître Adoré]]></nom_etendu>
+			<duree><![CDATA[04:25]]></duree>
+			<description><![CDATA[Azaltar, Glück et Trancine vont chez Belzétone pour tenter d'obtenir la collaboration du mage. Mais ce dernier n'a pas très envie...]]></description>
+			<lien><![CDATA[http://diwancorp.fr/mp3/Azaltar_et_l_Ambre_de_Lecture_Episode_4.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Phine]]></nom>
+				<role><![CDATA[Trancine]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/Phine]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Azaltar, Belzétone,...]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+		<episode>
+			<nom><![CDATA[Episode 5]]></nom>
+			<nom_etendu><![CDATA[Episode 5 - Traque]]></nom_etendu>
+			<duree><![CDATA[09:02]]></duree>
+			<description><![CDATA[Belzétone a décidé d'aider Azaltar à retrouver le voleur de l'Ambre de Lecture. Mais ce dernier a des plans pour ces précieux objets.]]></description>
+			<lien><![CDATA[http://diwancorp.fr/mp3/Azaltar_et_l_Ambre_de_Lecture_Episode_5.mp3]]></lien>
+			<acteur>
+				<nom><![CDATA[Phine]]></nom>
+				<role><![CDATA[Trancine]]></role>
+				<site><![CDATA[http://wiki.netophonix.com/Phine]]></site>
+			</acteur>
+			<acteur>
+				<nom><![CDATA[Diwan]]></nom>
+				<role><![CDATA[Azaltar, Belzétone,...]]></role>
+				<site><![CDATA[http://diwancorp.fr]]></site>
+			</acteur>
+		</episode>
+	</saga>
+</feed>
